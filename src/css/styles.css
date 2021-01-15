@@ -68,7 +68,7 @@ a.claimButtonText {
 }
 
 .newIcon{
-	background-image: url('../images/Hamburger Menu@2x.png') !important;
+	background-image: url('../img/Hamburger Menu@2x.png') !important;
 }
 
 .hider{
@@ -130,7 +130,7 @@ a.claimButtonText {
 	background-image: url('../img/sketch.jpg');
 	background-size: 75% auto;
 	background-repeat: no-repeat; 
-	background-color: #293B74;
+	background-color: #fc7202;
 	background-position: center center;
 /*	background-size: 100% 100%;
 */}
@@ -181,7 +181,7 @@ a.claimButtonText {
 }
 
 .footer {
-		background-color: #1A1B32
+		background-color: #cc2216
 
 }
 
@@ -233,7 +233,7 @@ a.claimButtonText {
 		color: #FFFFFF;
 		text-align: center;
 		font-size: 12px;
-		font-family: 'Karma', sans-serif;
+		font-family: 'Karma', serif;
 		line-height: 24px;
 		margin-left: 18px;
 		margin-right: 18px;
@@ -285,7 +285,7 @@ a.claimButtonText {
 		padding-left: 22px;
 	}
 	.navbar-collapse {
-		background-color: #355ABC;
+		background-color: #cc2216;
 	}
 
 	.navbar {
@@ -484,8 +484,8 @@ a.claimButtonText {
 	}
 
 	.headerFont{
-		border-top: 4px solid #1A1B32 !important;
-		border-bottom: 4px solid #1A1B32 !important;
+		border-top: 4px solid #cc2216 !important;
+		border-bottom: 4px solid #cc2216 !important;
 		padding-top: 0.1rem !important;
 		padding-bottom: 0.1rem !important;
 	}
@@ -519,7 +519,7 @@ a.claimButtonText {
 
 	.footer {
 	min-height: 186px;
-	background-color: #1A1B32
+	background-color: #cc2216
 }
 
 	.insetPadding {
